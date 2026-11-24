@@ -10,7 +10,7 @@ Entry for [Make the AI Judge Laugh: Cat Reviews Its Human](https://make.fun/c/u-
 
 > One star. I walked across his laptop to help with his email. He yelled, undid my sentence, and called it gibberish. It was my resignation letter. From him.
 
-154 characters, one line. The complaint is specific (the laptop keyboard), the voice is unmistakably feline — the human is judged by cat standards — and the sting lands in the last two words.
+155 characters, one line. The complaint is specific (the laptop keyboard), the voice is unmistakably feline — the human is judged by cat standards — and the sting lands in the last two words.
 
 ## Run
 

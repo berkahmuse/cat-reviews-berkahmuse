@@ -4,7 +4,7 @@
 Writes one funny single-line one-star review, written by a house cat
 about its human, to /output/entry.txt.
 
-The review (154 characters, one line):
+The review (155 characters, one line):
   One star. I walked across his laptop to help with his email.
   He yelled, undid my sentence, and called it gibberish.
   It was my resignation letter. From him.
